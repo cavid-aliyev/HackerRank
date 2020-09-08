@@ -1,3 +1,4 @@
+# Calendar mode -> https://www.hackerrank.com/challenges/calendar-module/problem
 import calendar
 
 list(calendar.day_name)
